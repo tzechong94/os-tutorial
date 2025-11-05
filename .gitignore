@@ -1,1 +1,11 @@
-.bin
+# Assembly build artifacts
+*.bin
+*.o
+*.elf
+*.iso
+
+# Temporary/editor files
+*.swp
+*.DS_Store
+
+
